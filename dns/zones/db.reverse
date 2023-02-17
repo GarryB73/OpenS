@@ -13,7 +13,7 @@ $TTL    604800
 1      IN    PTR    api.lab.test.co.uk.
 1      IN    PTR    api-int.lab.test.co.uk.
 ;
-210    IN    PTR    ocp-bootstrap.lab.test.cok.
+210    IN    PTR    ocp-bootstrap.lab.test.co.uk.
 ;
 211    IN    PTR    ocp-cp-1.lab.test.console.uk.
 212    IN    PTR    ocp-cp-2.lab.test.console.uk.
